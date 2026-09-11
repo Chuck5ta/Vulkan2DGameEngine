@@ -1,0 +1,33 @@
+# CMake build output
+
+/build/
+
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# CMake-generated files
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiler/build artifacts
+
+*.obj
+*.o
+*.lib
+*.a
+*.dll
+*.so
+*.exe
+*.pdb
+
+# Misc
+
+*.log
